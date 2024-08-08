@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "hardhat": "^2.22.8",
+    "nvm": "^0.0.4",
+    "solc": "^0.8.25"
+  },
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "ethers": "^6.13.2"
+  }
+}
